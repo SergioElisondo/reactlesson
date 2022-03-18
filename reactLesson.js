@@ -70,3 +70,5 @@ ReactDOM.render(
   </div>,
   document.querySelector("#root")
 );
+
+// consider if and else statements  where time dictates a message and a particular color 
